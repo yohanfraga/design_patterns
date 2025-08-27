@@ -1,8 +1,8 @@
-# 🎯 Design Patterns in C# - POC Project
+# Design Patterns in C# - POC Project
 
 A comprehensive demonstration of software design patterns implemented in C# with practical examples and real-world scenarios.
 
-## 🏗️ Project Overview
+## Project Overview
 
 This project showcases 12 essential design patterns organized into three main categories:
 
@@ -10,7 +10,7 @@ This project showcases 12 essential design patterns organized into three main ca
 - **Structural Patterns**: Deal with object composition and relationships
 - **Behavioral Patterns**: Handle communication between objects
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - .NET 8.0 SDK or later
@@ -28,9 +28,9 @@ dotnet build
 dotnet run
 ```
 
-## 📚 Design Patterns Covered
+## Design Patterns Covered
 
-### 🏗️ Creational Patterns
+### Creational Patterns
 
 #### 1. **Factory Pattern** (`FactoryPatternDemo.cs`)
 - **Purpose**: Creates objects without specifying their exact classes
@@ -52,7 +52,7 @@ dotnet run
 - **Example**: UI component factories for different operating systems
 - **Use Case**: When you need to ensure compatibility between related objects
 
-### 🏛️ Structural Patterns
+### Structural Patterns
 
 #### 5. **Adapter Pattern** (`AdapterPatternDemo.cs`)
 - **Purpose**: Allows incompatible interfaces to work together
@@ -74,7 +74,7 @@ dotnet run
 - **Example**: File system structure with files and directories
 - **Use Case**: Representing part-whole hierarchies
 
-### 🧠 Behavioral Patterns
+### Behavioral Patterns
 
 #### 9. **Observer Pattern** (`ObserverPatternDemo.cs`)
 - **Purpose**: Defines a one-to-many dependency between objects
@@ -86,17 +86,12 @@ dotnet run
 - **Example**: Payment processing with different payment methods
 - **Use Case**: When you have multiple algorithms for the same task
 
-#### 11. **Command Pattern** (`CommandPatternDemo.cs`)
-- **Purpose**: Encapsulates a request as an object
-- **Example**: Smart home remote control system
-- **Use Case**: Implementing undo/redo functionality and queuing operations
-
-#### 12. **Chain of Responsibility Pattern** (`ChainOfResponsibilityPatternDemo.cs`)
+#### 11. **Chain of Responsibility Pattern** (`ChainOfResponsibilityPatternDemo.cs`)
 - **Purpose**: Passes requests along a chain of handlers
 - **Example**: Support ticket escalation system
 - **Use Case**: Processing requests that can be handled by multiple objects
 
-## 🎨 Project Structure
+## Project Structure
 
 ```
 DesignPatterns/
@@ -114,11 +109,10 @@ DesignPatterns/
 └── Behavioral/                        # Behavioral patterns
     ├── ObserverPatternDemo.cs
     ├── StrategyPatternDemo.cs
-    ├── CommandPatternDemo.cs
     └── ChainOfResponsibilityPatternDemo.cs
 ```
 
-## 🔍 Key Features
+## Key Features
 
 - **Real-world Examples**: Each pattern demonstrates practical use cases
 - **Clear Documentation**: Comprehensive comments explaining pattern implementation
@@ -126,38 +120,23 @@ DesignPatterns/
 - **Modern C#**: Uses latest C# features like pattern matching, nullable reference types
 - **SOLID Principles**: Follows software design best practices
 
-## 💡 Learning Benefits
+## Learning Benefits
 
 - **Understanding**: See how design patterns solve common software problems
 - **Implementation**: Learn proper C# implementation techniques
 - **Application**: Discover when and where to use each pattern
 - **Best Practices**: Follow industry-standard coding practices
 
-## 🎯 Target Audience
-
-- **Software Developers**: Learning or refreshing design pattern knowledge
-- **Students**: Computer science and software engineering students
-- **Interview Preparation**: Common design pattern questions in technical interviews
-- **Code Review**: Reference for implementing patterns in production code
-
-## 🔧 Customization
-
-Feel free to:
-- Modify examples to match your domain
-- Add new patterns
-- Enhance existing implementations
-- Create unit tests for each pattern
-
-## 📖 Additional Resources
+## Additional Resources
 
 - [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 - [Microsoft C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [Refactoring Guru - Design Patterns](https://refactoring.guru/design-patterns)
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests.
 
 ---
 
-**Happy Coding! 🚀**
+**Happy Coding!**
