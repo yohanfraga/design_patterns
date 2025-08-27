@@ -1,0 +1,14 @@
+C:\Users\yohan\OneDrive\Desktop\projects\.net\design_patterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.exe
+C:\Users\yohan\OneDrive\Desktop\projects\.net\design_patterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.deps.json
+C:\Users\yohan\OneDrive\Desktop\projects\.net\design_patterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.runtimeconfig.json
+C:\Users\yohan\OneDrive\Desktop\projects\.net\design_patterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.dll
+C:\Users\yohan\OneDrive\Desktop\projects\.net\design_patterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.pdb
+C:\Users\yohan\OneDrive\Desktop\projects\.net\design_patterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yohan\OneDrive\Desktop\projects\.net\design_patterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\yohan\OneDrive\Desktop\projects\.net\design_patterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfo.cs
+C:\Users\yohan\OneDrive\Desktop\projects\.net\design_patterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\yohan\OneDrive\Desktop\projects\.net\design_patterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.dll
+C:\Users\yohan\OneDrive\Desktop\projects\.net\design_patterns\DesignPatterns\obj\Debug\net8.0\refint\DesignPatterns.dll
+C:\Users\yohan\OneDrive\Desktop\projects\.net\design_patterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.pdb
+C:\Users\yohan\OneDrive\Desktop\projects\.net\design_patterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.genruntimeconfig.cache
+C:\Users\yohan\OneDrive\Desktop\projects\.net\design_patterns\DesignPatterns\obj\Debug\net8.0\ref\DesignPatterns.dll
